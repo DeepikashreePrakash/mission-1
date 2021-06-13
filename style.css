@@ -66,6 +66,7 @@ body {
 
 .explore__menu__container {
   margin-top: 50px;
+  
 }
 
 .explore__menu__text {
@@ -73,7 +74,6 @@ body {
   color: #1d3557;
   margin: 20px 0;
   text-align: center;
-  
 }
 
 .food__menu__card {
